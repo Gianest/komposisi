@@ -1,0 +1,6 @@
+c:\Users\amikom\source\repos\asosiasi\komposisi\obj\Debug\komposisi.csproj.CoreCompileInputs.cache
+c:\Users\amikom\source\repos\asosiasi\komposisi\bin\Debug\komposisi.exe.config
+c:\Users\amikom\source\repos\asosiasi\komposisi\bin\Debug\komposisi.exe
+c:\Users\amikom\source\repos\asosiasi\komposisi\bin\Debug\komposisi.pdb
+c:\Users\amikom\source\repos\asosiasi\komposisi\obj\Debug\komposisi.exe
+c:\Users\amikom\source\repos\asosiasi\komposisi\obj\Debug\komposisi.pdb
